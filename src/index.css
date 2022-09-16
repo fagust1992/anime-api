@@ -5,9 +5,185 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+header {
+  background: url("https://www.cinepremiere.com.mx/wp-content/uploads/2021/01/Rebuild-of-Evagelion-Prime-Video.jpg"), #019851;
+  background-size: cover;
+  background-position: center 0;
+  background-repeat: no-repeat;
+  font-family: 'Bangers', cursive;
+  height: 540px;
+  font-size: 15px;
+ }
+ header .contenedor_logo_menu {
+  padding: 25px 0;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.4); 
+  color: #fff
+  
+}
+header .contenedor_logo_menu .logo a {
+      display: block; }
+      header .contenedor_logo_menu .logo a img {
+        vertical-align: top; }
+    header .contenedor_logo_menu .menu {
+      text-align: right;
+      line-height: 50px; }
+      header .contenedor_logo_menu .menu a {
+        color: rgb(255, 255, 255);
+        margin-left: 60px;
+        font-size: 18px; }
+  header .textos {
+    color: rgb(255, 241, 241);
+    text-align: center;
+    font-weight: 600px;
+    margin: 100px 0; }
+    header .textos .primera_linea,
+    header .textos .segunda_linea {
+      font-family: "Open Sans", Arial, Sans-serif;
+      font-weight: 300; }
+    header .textos .primera_linea {
+      font-size: 35px;
+      line-height: 35px;
+      margin-bottom: 30px; }
+    header .textos .segunda_linea {
+      font-size: 25px;
+      line-height: 25px;
+      margin-bottom: 60px; }
+    header .textos .contenedor-btns a {
+      border-radius: 4px;
+      border: 2px solid #fff;
+      color:rgb(185, 173, 173);
+      padding: 12px 0;
+      font-weight: 600;
+      width: 235px;
+      display: inline-block;
+      text-align: center;
+      margin: 0 10px; }
+      header .textos .contenedor-btns a:hover {
+        text-decoration: none;
+        background: #fff;
+        color: #4f4f4f; }
+        .logo-header{
+         width: 100px;
+         height: 130px;
+         border-radius: 50%;
+        }
+     .botones{
+      background: #019851;
+      height: 50px;
+      width: 90px;
+   border-radius: 10px;
+   margin-top: 60px;
+    
+     }
+ 
+
+  
+.row{
+border: 1px silid gray;
+
+}
+.card{display: flex;
+height: 100px;
+}
+.col{
+  background: #fffdfd;
+font-size: 2vw;
+width: 150px;
+}
+.card img{
+background-size: cover;
+width: 200px;
+height: 250px;
+ margin: auto;
+
+
+}
+
+.contendor-cartas{
+display: flex;
+margin: auto;
+
+}
+.subgaleria {
+  height: 270px;
+  overflow: hidden;
+  overflow-y: auto;
+
+
+
+}
+.parrafo{
+
+  color:rgb(29, 26, 26);
+  font-weight: 400;
+  font-size: 15px;
+  text-align: start;
+   
+
+
+
+}
+.name{
+  color: rgb(95, 9, 9);
+  font-weight: 600;
+}
+footer .direccion {
+  background: #013d86;
+  padding: 30px 0;
+  color: #fff; }
+  footer .direccion .titulo {
+    font-size: 32px;
+    line-height: 32px;
+    font-weight: 300;
+    margin-bottom: 30px; }
+  footer .direccion .calle,
+  footer .direccion .telefono,
+  footer .direccion .correo {
+    margin-bottom: 10px; }
+  footer .direccion .logo img {
+    margin-top: 70px; }
+footer .social {
+  text-align: center;
+  padding: 20px 0; }
+  footer .social a {
+    padding: 10px;
+    display: inline-block;
+    margin: 0 20px;
+    width: 50px;
+    font-size: 22px;
+    color: #fff;
+    background: #000;
+    border-radius: 100px; }
+    footer .social a:hover {
+      text-decoration: none; }
+    footer .social a.facebook {
+      background: #040f25; }
+    footer .social a.twitter {
+      background: #55acee; }
+    footer .social a.youtube {
+      background: #cd201f; }
+@media only screen and (max-width: 774px) {
+  .input-header{
+    width: 300px;
+  }
+  header{
+    height: 390px;
+   
+  
+  }
+  .logo-header{
+    display: flex;
+   justify-content: center;
+        }
+   .botones{
+    margin-top: 90px;
+   }
 }
