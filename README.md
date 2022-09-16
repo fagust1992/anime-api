@@ -1,70 +1,20 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Inmobiliaria San Jose](https://raw.githubusercontent.com/fagust1992/anime-api/master/src/assets/img/foto-pagina.png "Inmobiliaria San Jose")
 
-## Available Scripts
 
-In the project directory, you can run:
+#### Bienvenido al Repositiorio de 👩‍Peliculas Animes 💻🕶I
+Se desarrolló un pagina web  dinamica (responsive)  cuya función y objetivo principal es visibilizar toda la carta disponible de peliculas  de dicha pagina , la cual permite de manera dinamica filtar busqueda mediante las validaciones del usuario ,cuyo obejtivo sera tipear un inpunt   permitiendole  obtener su busqueda de acuerdo a las caracteristicas solicitadas
+en este caso el nombre de la peliculas que se puede observar en cada carta de la galeria.
 
-### `npm start`
+####  Resumen del proyecto 👊🏼
+la pagina web realizada , permite  ver y filtrar datos y características importantes de cada tipo de pelicula de las distintas apis,  disponible en Peliculas Animes , para así facilitar el conocimiento y uso de informacion de las peliculas o series. Esto a través de  su filtro de busqueda  de datos por el nombre de la pelicula dispobible
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+####  Como filtrar busqueda
+Pagina web anime posee  el siguiente filtro de busqueda para que sea exitosa:
+-el usuario debe tipear la busqueda de acuerdo al nombre de la pelicula para que sea un resultado  exitoso.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+ejemplo
+![Filtro-busqueda](https://raw.githubusercontent.com/fagust1992/anime-api/master/src/assets/img/busqueda.png "Filtro-busqueda")
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+video de texto:
+https://vimeo.com/750519011/acff320509
