@@ -16,5 +16,5 @@ Pagina web anime posee  el siguiente filtro de busqueda para que sea exitosa:
 ejemplo
 ![Filtro-busqueda](https://raw.githubusercontent.com/fagust1992/anime-api/master/src/assets/img/busqueda.png "Filtro-busqueda")
 
-video de texto:
+video de texteo:
 https://vimeo.com/750519011/acff320509
