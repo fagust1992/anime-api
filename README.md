@@ -15,7 +15,10 @@ Pagina web anime posee  el siguiente filtro de busqueda para que sea exitosa:
 
 ejemplo
 ![Filtro-busqueda](https://raw.githubusercontent.com/fagust1992/anime-api/master/src/assets/img/busqueda.png "Filtro-busqueda")
-#### Install
-debes utilizar el comando npm install una vez descargada la app
+
 video de texteo:
 https://vimeo.com/750519011/acff320509
+
+
+#### Install
+debes utilizar el comando npm install una vez descargada la app
